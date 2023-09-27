@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE corpus SYSTEM 'puns.dtd'>
+<corpus lang="en" id="subtask2-homographic">
+ <text id="hom_3">
+    <word id="hom_5_1">She</word>
+    <word id="hom_5_2">was</word>
+    <word id="hom_5_3">only</word>
+    <word id="hom_5_4">a</word>
+    <word id="hom_5_5">Blacksmith</word>
+    <word id="hom_5_6">'</word>
+    <word id="hom_5_7">s</word>
+    <word id="hom_5_8">daughter</word>
+    <word id="hom_5_9">,</word>
+    <word id="hom_5_10">but</word>
+    <word id="hom_5_11">she</word>
+    <word id="hom_5_12">knew</word>
+    <word id="hom_5_13">how</word>
+    <word id="hom_5_14">to</word>
+    <word id="hom_5_15">forge</word>
+    <word id="hom_5_16">ahead</word>
+    <word id="hom_5_17">.</word> 
+ </text>
+</corpus>
